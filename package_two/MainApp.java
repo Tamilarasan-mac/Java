@@ -1,14 +1,9 @@
 package package_two;
+import package_one.Message;
+public class MainApp {
+    public static void main(String[] args) {
 
-public class Array2{
-	public static void main(String[] args){
-
-			int a = 7177;
-			int x = a;
-			int y = 8188;
-			int z = 11111;
-			double c = a/2d+y+z+11111.5d;
-		System.out.println(c);
-
-	}
+        Message msg = new Message();
+        msg.showMessage();           
+    }
 }
