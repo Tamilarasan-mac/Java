@@ -1,0 +1,10 @@
+tamilking@Tamils-MacBook-Air desktop % javac shallow_copy.java
+tamilking@Tamils-MacBook-Air desktop % java shallow_copy.java
+Array a:
+70000 
+20 
+30 
+Array b:
+70000 
+20 
+30 
