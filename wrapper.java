@@ -6,7 +6,7 @@ public class wrapper{
 		int b = a;
 		int x = b;
 
-		Integer x = Integer.valueOf(b);
+		Integer m = Integer.valueOf(b);
 	
 	System.out.println(b);
 
